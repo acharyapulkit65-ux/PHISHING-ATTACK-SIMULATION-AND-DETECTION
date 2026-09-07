@@ -1,0 +1,21 @@
+From: "PayPal Security" <security@paypa1-verify.ru>
+Reply-To: support@totally-legit-mailer.tk
+To: test@example.com
+Subject: URGENT: Your account has been suspended - verify immediately
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=paypa1-verify.ru; dkim=none; dmarc=fail
+Content-Type: text/plain; charset="utf-8"
+
+Dear Customer,
+
+We detected unusual activity on your account. Your account has been
+suspended and will be permanently closed within 24 hours unless you
+verify your identity immediately.
+
+Click here to confirm your identity and avoid suspension:
+http://paypa1-verify.ru.secure-login.tk/confirm?id=8837
+
+This is a final notice. Failure to act now may result in unauthorized
+access charges to your account.
+
+Thank you,
+PayPal Security Team

@@ -1,0 +1,38 @@
+{
+  "protected_brands": [
+    {"name": "PayPal", "domain": "paypal.com"},
+    {"name": "Microsoft", "domain": "microsoft.com"},
+    {"name": "Apple", "domain": "apple.com"},
+    {"name": "Google", "domain": "google.com"},
+    {"name": "Amazon", "domain": "amazon.com"},
+    {"name": "Netflix", "domain": "netflix.com"},
+    {"name": "Bank of America", "domain": "bankofamerica.com"},
+    {"name": "Chase", "domain": "chase.com"},
+    {"name": "Wells Fargo", "domain": "wellsfargo.com"},
+    {"name": "Facebook", "domain": "facebook.com"},
+    {"name": "LinkedIn", "domain": "linkedin.com"},
+    {"name": "DocuSign", "domain": "docusign.com"},
+    {"name": "Dropbox", "domain": "dropbox.com"},
+    {"name": "Office365", "domain": "office.com"}
+  ],
+  "suspicious_tlds": [
+    ".zip", ".mov", ".xyz", ".top", ".club", ".work", ".click",
+    ".link", ".gq", ".tk", ".ml", ".ga", ".cf", ".info"
+  ],
+  "url_shorteners": [
+    "bit.ly", "tinyurl.com", "goo.gl", "t.co", "ow.ly", "is.gd",
+    "buff.ly", "adf.ly", "cutt.ly", "rebrand.ly"
+  ],
+  "risky_attachment_extensions": [
+    ".exe", ".scr", ".bat", ".cmd", ".js", ".vbs", ".jar",
+    ".docm", ".xlsm", ".pptm", ".ps1", ".msi", ".lnk"
+  ],
+  "urgency_keywords": [
+    "urgent", "immediately", "verify your account", "suspended",
+    "act now", "click here", "confirm your identity", "limited time",
+    "your account has been", "unusual activity", "final notice",
+    "password will expire", "unauthorized access", "security alert",
+    "action required", "failure to", "within 24 hours", "avoid suspension",
+    "update your payment", "restricted access"
+  ]
+}
